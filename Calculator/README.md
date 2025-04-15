@@ -18,7 +18,8 @@ Calculator/
 ├── src/               # Java source code
 │   └── App.java       # Main Java file with main method
 ├── screenshots/       # Project screenshots
-└── README.md          # Project documentation
+├── README.md          # Project documentation
+└── LICENSE            # MIT License file
 ```
 
 ## 🚀 Getting Started
