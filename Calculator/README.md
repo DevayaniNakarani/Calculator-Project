@@ -66,3 +66,9 @@ Calculator/
 **Devayani Nakarani**  
 🔗 [Portfolio](https://devayani-portfolio.netlify.app)  
 🐙 [GitHub](https://github.com/DevayaniNakarani)
+
+## 🙌 Special Thanks
+
+Thanks for checking out this project! 💖  
+If you liked it, feel free to ⭐️ star it on GitHub or share it.  
+Your feedback is always welcome! 🚀
